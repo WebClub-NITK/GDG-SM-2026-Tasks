@@ -1,9 +1,5 @@
 # Silicon Maze: Echoes of the Web
 
-> **Physics Game - Hard**
->
-> Build a story-driven, open-world web game in which movement, exploration, and puzzles are powered by physics.
-
 ## The Story
 
 A city-wide energy surge has fractured the **Aether Core**, scattering its fragments across unstable districts. Bridges have collapsed, machines have gone haywire, and ordinary routes are no longer safe.
@@ -163,7 +159,5 @@ Bonus work is evaluated only after the core game is functional.
 3. Include the documentation and deployed game link in the repository.
 4. Upload the explanation video to a publicly accessible service such as Google Drive, YouTube, or Loom.
 5. Submit the repository and video links through the organizer-provided portal.
-
-The portal and deadline announced by the organizers are authoritative if they differ from this document.
 
 Good luck - make the city feel fun to move through before making it big.
