@@ -1,7 +1,5 @@
 # Silicon Maze: Multiverse Recon
 
-Mentors: [Harshith Vellapha](https://github.com/harshithv25) ([+91 9480090828](https://wa.me/919480090828)), [Mayank](https://github.com/M4yankkkk) ([+91 9915172290](https://wa.me/9915172290))
-
 **The multiverse is collapsing!** Inspired by the reality-bending events of *Avengers: Doomsday*, this task challenges you to build **Multiverse Recon** — a web-based location guessing game. Players are dropped into a randomly selected street-view or image-based location from across the globe (or the multiverse). To stabilize the timeline, they must identify their exact coordinates by placing a marker on an interactive world map.
 
 This task focuses primarily on **front-end development, API integration, geospatial calculations, and interactive UI/UX**, without requiring a complex backend or database.
